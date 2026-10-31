@@ -1,0 +1,64 @@
+# ==========================================
+# PINT - SoftBadge Monorepo .gitignore
+# ==========================================
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production & Build outputs
+dist/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Mobile (Flutter / Android / iOS) build outputs
+PINT26_MOBILE/build/
+PINT26_MOBILE/.dart_tool/
+PINT26_MOBILE/android/.gradle/
+PINT26_MOBILE/android/app/build/
+PINT26_MOBILE/ios/.symlinks/
+PINT26_MOBILE/ios/Pods/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Sensitive Documents & Evaluation Signatures
+docs/URL_Credenciais.pdf
+docs/Checklist_Assinaturas.pdf
+docs/Fluxo*.txt
+docs/PINT_Reposit*.pdf
+*credenciais*
+*credentials*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+PINT26_MOBILE/jni_error.txt
+PINT26_MOBILE/flutter_*.png
+PINT26_MOBILE/android/.settings/
+
+# Editor & OS files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+desktop.ini
+

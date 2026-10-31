@@ -1,0 +1,602 @@
+{
+  "@@locale": "en",
+  "myProfile": "My Profile",
+  "manageAccount": "Manage your account and preferences",
+  "points": "Points",
+  "badges": "Badges",
+  "viewPublicProfile": "View Public Profile",
+  "account": "Account",
+  "profileSettings": "Profile Settings",
+  "profileSettingsDesc": "Edit personal information",
+  "notifications": "Notifications",
+  "notificationsDesc": "Manage notification preferences",
+  "privacySecurity": "Privacy & Security",
+  "privacySecurityDesc": "Control data and GDPR permissions",
+  "preferences": "Preferences",
+  "language": "Language",
+  "languageDesc": "Change application language",
+  "support": "Support",
+  "aboutApp": "About the App",
+  "aboutAppDesc": "Version, terms and conditions",
+  "helpFaq": "Help & FAQ",
+  "helpFaqDesc": "Frequently asked questions and support",
+  "logout": "Logout",
+  "myEvolution": "My Evolution",
+  "loginWelcome": "Welcome back! Please log in to your account.",
+  "actionRequired": "Action required: {action}",
+  "@actionRequired": {
+    "placeholders": {
+      "action": {
+        "type": "String"
+      }
+    }
+  },
+  "emailAddress": "Email Address",
+  "enterEmail": "Enter your email",
+  "passwordLabel": "Password",
+  "enterPassword": "Enter your password",
+  "loginButtonLog": "Log",
+  "loginButtonIn": " In",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot password?",
+  "requiredField": "Required field",
+  "learningPath": "Learning Path",
+  "serviceLine": "Service Line",
+  "area": "Area",
+  "configureProfileTitle": "Configure your Profile",
+  "configureProfileSubtitle": "To suggest badges and challenges aligned with your career, follow these steps.",
+  "selectLearningPath": "Select a Learning Path",
+  "selectServiceLine": "Select a Service Line",
+  "selectArea": "Select an Area",
+  "confirmArea": "Confirm Area",
+  "passwordChangedLoginAgain": "Password changed successfully! Please log in again.",
+  "passwordChangedSuccess": "Password changed successfully!",
+  "passwordChangeError": "Error changing password. Check your details.",
+  "newPasswordTitle": "New Password",
+  "newPasswordSubtitle": "For security reasons, you must change the system-generated password on your first login.",
+  "newPasswordLabel": "New Password",
+  "min8Chars": "Minimum 15 characters",
+  "passwordMinError": "Password must be at least 15 characters long",
+  "confirmNewPasswordLabel": "Confirm New Password",
+  "repeatNewPassword": "Repeat your new password",
+  "passwordsDontMatch": "Passwords do not match",
+  "confirmChange": "Confirm Change",
+  "insertVerificationCode": "Enter the verification code.",
+  "emailVerifiedLoginAgain": "Email verified successfully! Please log in again.",
+  "invalidCode": "Invalid code. Please try again.",
+  "newCodeSent": "New code sent to your email!",
+  "errorResendingCode": "Error resending code.",
+  "emailVerificationTitle": "Email Verification",
+  "emailVerificationSubtitleEmail": "We've sent a verification code to\n{email}",
+  "@emailVerificationSubtitleEmail": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "emailVerificationSubtitle": "We've sent a verification code to your email.",
+  "verifyCode": "Verify Code",
+  "didntReceiveCode": "Didn't receive the code? ",
+  "resendCooldown": "Resend ({seconds}s)",
+  "@resendCooldown": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "resend": "Resend",
+  "backToLogin": "Back to Login",
+  "errorLoadingTerms": "An error occurred while loading the terms. Please contact the administrator.",
+  "errorAcceptingTerms": "An error occurred while accepting the terms. Please try again.",
+  "termsAndConditions": "Terms and Conditions",
+  "rgpdSubtitle": "To continue using the application, please read and accept our privacy and data protection policy (GDPR).",
+  "acceptTerms": "Accept Terms",
+  "newMilestoneReached": "NEW MILESTONE REACHED!",
+  "congratulations": "Congratulations!",
+  "fantastic": "Fantastic!",
+  "navHome": "Home",
+  "navCatalog": "Catalog",
+  "navBadges": "Badges",
+  "navRequests": "Requests",
+  "navProfile": "Profile",
+  "greetingMorning": "Good morning! 👋",
+  "greetingAfternoon": "Good afternoon! 👋",
+  "greetingEvening": "Good evening! 👋",
+  "logoutTitle": "Sign Out",
+  "logoutConfirmation": "Are you sure you want to sign out?",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "welcomeBack": "Welcome back",
+  "premiumBadgesTitle": "Premium Badges",
+  "premiumBadgesSubtitle": "Special badges that reflect important\nmilestones of your journey",
+  "noPremiumBadges": "You haven't unlocked Premium badges yet.\nKeep up the good work!",
+  "pointsHistoryTitle": "Points History",
+  "pointsHistorySubtitle": "Monthly evolution of your journey",
+  "noPointsHistory": "No points history yet.\nStart earning badges!",
+  "recommendedForYou": "Recommended for You",
+  "preferenceArea": "🎯 Preference Area",
+  "exploredArea": "🌐 Explored Area",
+  "levelNumber": "Level {level}",
+  "@levelNumber": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "viewAction": "View",
+  "applyAction": "Apply",
+  "professionalEvolutionTitle": "Professional Evolution",
+  "detailsAction": "Details",
+  "noProfessionalEvolution": "Your professional evolution starts here. Earn your first badge to see the timeline!",
+  "objectiveDeletedSuccess": "Objective successfully deleted!",
+  "myObjectives": "My Objectives",
+  "noActiveObjectives": "No active objectives!",
+  "defineNewObjective": "Define a new objective and track your progress.",
+  "createObjectiveAction": "Create Objective",
+  "progressCurrentTarget": "Progress: {current} / {target}",
+  "@progressCurrentTarget": {
+    "placeholders": {
+      "current": {
+        "type": "String"
+      },
+      "target": {
+        "type": "String"
+      }
+    }
+  },
+  "expired": "Expired",
+  "daysRemaining": "{days} days left",
+  "@daysRemaining": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "silverMedal": "SILVER",
+  "goldMedal": "GOLD",
+  "bronzeMedal": "BRONZE",
+  "noMoreConsultants": "There are no more consultants.",
+  "generalRankingTitle": "General Ranking",
+  "tryAgainAction": "Try Again",
+  "noRankingData": "No ranking data yet.",
+  "newObjective": "New Objective",
+  "noTimelineEvents": "You don't have any milestones in your journey yet.\nExplore the catalog!",
+  "badgesCatalogTitle": "Badges Catalog",
+  "searchBadgesHint": "Search badges...",
+  "filters": "Filters",
+  "lessPoints": "Fewer Points",
+  "morePoints": "More Points",
+  "badgesCount": "{count} badges",
+  "@badgesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noBadgesMatchFilters": "No badge matches the filters",
+  "statusCompleted": "Completed",
+  "statusInProgress": "In Progress",
+  "statusAvailable": "Available",
+  "goBack": "Back",
+  "tabInformation": "Information",
+  "tabCompetences": "Competences",
+  "loadingRequirements": "Loading requirements...",
+  "requirementsCount": "Requirements ({count})",
+  "@requirementsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "statusApproved": "Approved",
+  "statusInValidation": "In Validation",
+  "statusSubmitted": "Submitted",
+  "statusPending": "Pending",
+  "certifiedCompetences": "Certified Competences",
+  "actionsTitle": "Actions",
+  "backToCatalog": "Back to Catalog",
+  "submitApplication": "Submit Application",
+  "continueDraft": "Continue Draft",
+  "viewApplication": "View Application",
+  "project": "Project",
+  "onDate": "on {date}",
+  "@onDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "badgeApplicationTitle": "Badge Application",
+  "singleLevel": "Single Level",
+  "achievementsTitle": "Achievements",
+  "tabBadges": "Badges",
+  "tabMilestones": "Milestones",
+  "tabSpecials": "Specials",
+  "noBadgesEarned": "You haven't earned any badges yet.",
+  "exploreCatalogPrompt": "Start exploring the catalog and apply for your first Badges!",
+  "goToCatalog": "Go to Catalog",
+  "achievementSharing": "Achievement Sharing",
+  "publicStatus": "Public",
+  "privateStatus": "Private",
+  "viewBadge": "View Badge",
+  "viewCertificate": "View Certificate",
+  "shareAction": "Share",
+  "linkedIn": "LinkedIn",
+  "applicationIdNotAvailable": "Application ID not available.",
+  "shareMessage": "Check out my new certification from Softinsa: {title}!\n{link}",
+  "@shareMessage": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "shareSubject": "{title} Certification",
+  "@shareSubject": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "shareTermsTitle": "Badge Sharing Terms",
+  "shareTermsContent": "By accepting these terms, you authorize the platform to make this certification data public. Do you confirm that you have read and accept the GDPR Terms?",
+  "decline": "Decline",
+  "accept": "Accept",
+  "publicShareError": "Error enabling public sharing. Please try again.",
+  "achieved": "Achieved",
+  "available": "Available",
+  "searchAvailableMilestones": "Search available milestones...",
+  "noMilestoneFound": "No milestone found.",
+  "tryAgain": "Try Again",
+  "noSpecialBadgeApplications": "You haven't applied to any special badges yet.",
+  "exploreSpecialBadgesPrompt": "Explore Special Badges in the 'Available' tab to submit your certifications.",
+  "statusConquered": "Earned",
+  "statusUnderAnalysis": "Under Analysis",
+  "statusRejected": "Rejected",
+  "reasonPrefix": "Reason: ",
+  "viewProof": "View Proof",
+  "publicProfileSharing": "Public Profile Sharing",
+  "statusActive": "Active",
+  "statusInactive": "Inactive",
+  "noSpecialBadgeAvailable": "No special badge available at the moment.",
+  "viewDetails": "View Details",
+  "applyButton": "Apply",
+  "bonusPointsSuffix": "bonus points",
+  "descriptionLabel": "Description",
+  "noAdditionalDescription": "No additional description for this special badge.",
+  "applicationRequirementsTitle": "Application Requirements",
+  "requirementLinkPublic": "You must submit a valid public proof URL link.",
+  "requirementFilePdf": "You must attach a proof document in PDF format.",
+  "applyForThisBadge": "Apply for this Badge",
+  "specialBadgeApplicationTitle": "Special Badge Application",
+  "publicLinkMandatory": "Public Link (Mandatory) *",
+  "publicLinkOptional": "Public Link (Optional)",
+  "exampleLink": "https://example.com/certificate",
+  "errorInsertUrl": "Please enter the proof link URL.",
+  "errorLinkFormat": "The link must start with http:// or https://",
+  "pdfFileMandatory": "PDF Proof File (Mandatory) *",
+  "pdfFileOptional": "PDF Proof File (Optional)",
+  "errorFileSize": "The file cannot exceed 5MB.",
+  "errorFileSelection": "Error selecting file: ",
+  "selectPdfFile": "Select PDF File (max 5MB)",
+  "errorPdfMandatory": "Attaching a PDF proof is mandatory.",
+  "applicationSubmittedSuccess": "Application submitted successfully for Team Manager analysis!",
+  "returnedApplicationsTitle": "Returned Applications",
+  "noReturnedApplications": "There are no returned applications for changes.",
+  "applicationRequiresCorrection": "Application Requires Correction",
+  "tapToCorrectAndResubmit": "ID: {id}\nTap to correct and resubmit evidence.",
+  "approvedValidatedEvidenceTitle": "Approved / Validated Evidence",
+  "noValidatedEvidence": "You don't have any validated evidence at the moment.",
+  "requirementIdAndDate": "Requirement ID: {id} - Date: {date}",
+  "incompleteSubmissionsTitle": "Incomplete Submissions",
+  "noIncompleteSubmissions": "You have no incomplete submissions.",
+  "applicationId": "Application: {id}",
+  "tapToUploadAndSubmit": "Tap to upload files and submit evidence.",
+  "unknownBadge": "Unknown Badge",
+  "noArea": "No Area",
+  "noDescriptionAvailable": "No description available.",
+  "statusDraft": "Draft",
+  "statusRejectedCancelled": "Rejected / Cancelled",
+  "applicationDetailsTitle": "Application Details",
+  "submissionRequirementsTitle": "Submission Requirements",
+  "noEvidenceSubmitted": "No evidence submitted.",
+  "mainRequirement": "Main Requirement - {title}",
+  "mandatory": "Mandatory",
+  "practicalCompetenceDemo": "Demonstration of practical competence in {title}",
+  "evidencePresentedForProof": "Evidence presented as proof for this requirement.",
+  "changeButton": "Change",
+  "currentState": "* Current State: {status}",
+  "closeButton": "Close",
+  "accountTitle": "Account",
+  "profileSettingsTitle": "Profile Settings",
+  "profileSettingsSubtitle": "Edit personal information",
+  "notificationsTitle": "Notifications",
+  "notificationsSubtitle": "Manage notification preferences",
+  "privacySecurityTitle": "Privacy and Security",
+  "privacySecuritySubtitle": "Control data and GDPR permissions",
+  "preferencesTitle": "Preferences",
+  "languageTitle": "Language",
+  "languageSubtitle": "Change application language",
+  "supportTitle": "Support",
+  "helpFaqTitle": "Help and FAQ",
+  "helpFaqSubtitle": "Frequently asked questions",
+  "aboutTitle": "About",
+  "aboutSubtitle": "Version 1.0.0",
+  "logoutButton": "Logout",
+  "platformVersion": "Softinsa Badge Platform v1.0.0",
+  "pointsLabel": "Points",
+  "badgesLabel": "Badges",
+  "personalInformationTitle": "Personal Information",
+  "nameField": "Name",
+  "surnameField": "Surname",
+  "emailField": "Email",
+  "profileUpdatedSuccess": "Profile synchronized and saved successfully!",
+  "profileUpdateError": "Error updating profile.",
+  "saveChangesButton": "Save Changes",
+  "notificationChannelsTitle": "Notification Channels",
+  "pushNotificationsTitle": "Push Notifications",
+  "pushNotificationsSubtitle": "Receive real-time alerts on your device",
+  "emailAlertsTitle": "Email Alerts",
+  "emailAlertsSubtitle": "Receive periodic activity summaries",
+  "syncAlertsTitle": "Synchronization Alerts",
+  "syncAlertsSubtitle": "Notify when there are database updates",
+  "accountSecurityTitle": "Account Security",
+  "changePasswordTitle": "Change Password",
+  "changePasswordSubtitle": "Update system access credentials",
+  "gdprComplianceTitle": "GDPR Compliance and Data",
+  "downloadMyDataTitle": "Download my data",
+  "downloadMyDataSubtitle": "Get a local and cloud backup",
+  "deleteAccountTitle": "Delete Account",
+  "deleteAccountSubtitle": "Permanently delete application data",
+  "currentPasswordLabel": "Current Password",
+  "cancelButton": "Cancel",
+  "confirmButton": "Confirm",
+  "passwordChangeErrorWithArg": "Error changing password: {error}",
+  "faqHeaderTitle": "Frequently Asked Questions",
+  "faqHeaderSubtitle": "Find quick answers to the most common questions.",
+  "frequentQuestionsTitle": "Frequent Questions",
+  "stillHaveQuestionsTitle": "Still have questions?",
+  "contactSupportTitle": "Contact Support",
+  "aboutAppTitle": "About the Application",
+  "aboutAppDescription": "The Softinsa Badges Platform is a mobile application developed to recognize and value the skills of Softinsa's employees.\n\nThrough a system of badges and points, employees can track their professional growth and celebrate their achievements.",
+  "technicalInfoTitle": "Technical Information",
+  "versionLabel": "Version",
+  "buildLabel": "Build",
+  "platformLabel": "Platform",
+  "frameworkLabel": "Framework",
+  "developedByTitle": "Developed by",
+  "developmentTeam": "Development Team",
+  "legalTitle": "Legal",
+  "termsOfService": "Terms of Service",
+  "privacyPolicy": "Privacy Policy",
+  "softwareLicenses": "Software Licenses",
+  "copyrightNotice": "© 2026 Softinsa · All rights reserved",
+  "errorLoading": "Error loading",
+  "totalProducts": "Total products: {count}",
+  "myPath": "My Path",
+  "completedLabel": "Completed",
+  "inProgressLabel": "In Progress",
+  "notStartedLabel": "Not Started",
+  "serviceLinesCount": "{count, plural, =0{0 Service Lines} =1{1 Service Line} other{{count} Service Lines}}",
+  "areasCount": "{count, plural, =0{0 Areas} =1{1 Area} other{{count} Areas}}",
+  "levelsCount": "{count, plural, =0{0 Levels} =1{1 Level} other{{count} Levels}}",
+  "levelsGrid": "Levels",
+  "badgesGrid": "Badges",
+  "earnedGrid": "Earned",
+  "completedSubtext": "completed",
+  "loadingLearningPaths": "Loading Learning Paths...",
+  "searchFilters": "Search Filters",
+  "allGender": "All",
+  "allPlural": "All",
+  "areaLabel": "Area",
+  "levelLabel": "Level",
+  "statusLabel": "Statuses",
+  "tryAgainButton": "Try Again",
+  "submissionRequirements": "Submission Requirements",
+  "noRequirementsConfigured": "No requirements configured for this badge.",
+  "applicationInstructions": "Application Instructions",
+  "applicationInstructionsDesc": "Attach the necessary proofs in each requirement. Allowed files: PDF (max. 5MB), ZIP, RAR or 7Z (max. 15MB).",
+  "requirementFallback": "Requirement",
+  "mandatoryLabel": "Mandatory",
+  "optionalLabel": "Optional",
+  "attachedFileFallback": "Attached file",
+  "attachFileLabel": "Attach File (PDF, ZIP, RAR, 7Z)",
+  "submittingLabel": "Submitting...",
+  "submitApplicationButton": "Submit Application",
+  "savingLabel": "Saving...",
+  "saveDraftButton": "Save Draft",
+  "errorLoadRequirements": "Error loading badge requirements: {error}",
+  "fileSizeExceeded": "File exceeds the limit of {mb}MB for .{extension}",
+  "mustAttachMandatory": "You must attach evidence files in all mandatory requirements.",
+  "attachAtLeastOne": "Attach at least one file to save the draft.",
+  "errorCreateApplication": "Could not create the application record.",
+  "draftSavedSuccess": "Draft saved successfully!",
+  "applicationStatusTitle": "Application Status",
+  "refreshRequests": "Refresh Requests",
+  "renewalsManagement": "Renewals Management",
+  "noApplicationsPullToRefresh": "There are no registered applications.\nPull down to refresh.",
+  "noTitle": "No title",
+  "noObjectiveTypesAvailable": "There are no objective types available at the moment.",
+  "objectiveType": "Objective Type *",
+  "select": "Select...",
+  "qtyBadges": "Qty of Badges (3 to 5)",
+  "qtyPoints": "Qty of Points (100 to 2000)",
+  "diversityType": "Diversity Type",
+  "qtyDiversity": "Qty of Diversity",
+  "deadline": "Deadline",
+  "unit": "Unit",
+  "days": "Days",
+  "weeks": "Weeks",
+  "months": "Months",
+  "objectiveCreatedSuccess": "Objective created successfully!",
+  "errorCreatingObjective": "Error creating objective. Check the values.",
+  "alertsTitle": "Alerts",
+  "markAllAsReadTooltip": "Mark all as read",
+  "refresh": "Refresh",
+  "filterAll": "All",
+  "filterUnread": "Unread",
+  "filterRead": "Read",
+  "errorLoadingAlerts": "Could not load alerts.",
+  "noAlertsFound": "No alerts found.",
+  "pullToRefresh": "Pull down to refresh",
+  "systemAlert": "System Alert",
+  "general": "General",
+  "readAction": "Read",
+  "fromPrefix": "From: ",
+  "noAdditionalContent": "No additional content.",
+  "markAllAsReadTitle": "Mark all as read?",
+  "markAllAsReadMessage": "Do you want to mark all notifications as read?",
+  "allMarkedAsReadSuccess": "All notifications were marked as read.",
+  "yesConfirm": "Yes, confirm",
+  "now": "Now",
+  "minsAgo": "mins ago",
+  "hoursAgo": "h ago",
+  "yesterdayAt": "Yesterday at ",
+  "renewalRequestSubmittedSuccess": "Renewal request submitted successfully.",
+  "eligible": "Eligible",
+  "myApplicationsTab": "My Applications",
+  "noBadgesToRenew": "No badge expiring or eligible for renewal.",
+  "renewalPointsPrefix": "Renewal Points: +",
+  "expiresInDays": "Expires in {days} days",
+  "pendingModeration": "Pending Moderation",
+  "requestRenewalTitle": "Request Renewal?",
+  "requestRenewalMessage": "Are you sure you want to submit this renewal request?",
+  "confirm": "Confirm",
+  "renew": "Renew",
+  "noRenewalRequestsSubmitted": "No renewal requests submitted.",
+  "previewShare": "Preview Share",
+  "howYourPostWillLook": "How your post will look:",
+  "yourName": "Your Name",
+  "softinsaTalent": "Softinsa Talent",
+  "shareOnLinkedIn": "Share on LinkedIn",
+  "shareNow": "Share Now",
+  "documentRotatedDegrees": "Document rotated {degrees}°",
+  "errorSharingCertificate": "Error sharing certificate: {error}",
+  "certificateSavedSuccess": "Certificate saved successfully!",
+  "errorDownloadingCertificate": "Error downloading certificate: {error}",
+  "certificateTitle": "Certificate",
+  "errorLoadingCertificate": "An error occurred while generating the certificate.",
+  "loadingCertificate": "Loading your certificate...",
+  "noSubmissionsYet": "You haven't made any submissions yet.",
+  "achievedBadge": "You achieved the {badgeName} badge",
+  "plusPoints": "+{points} Points",
+  "continueEvolving": "Continue to Evolve",
+  "goodMorning": "Good morning!",
+  "technicalJourney": "Technical Journey",
+  "weekProgress": "Week Progress",
+  "errorGeneral": "Error: {error}",
+  "dashboardBadges": "Badges",
+  "dashboardAccumulatedPoints": "Accumulated\nPoints",
+  "dashboardPointsUnit": "pts",
+  "dashboardApplications": "Applications",
+  "dashboardRanking": "Ranking",
+  "dashboardVsPreviousMonth": "vs. previous month",
+  "sliderNewBadge": "New Badge!",
+  "sliderBadgeExpiring": "Badge Expiring",
+  "timelineBadgeConquered": "Badge Earned",
+  "timelineSpecialConquest": "Special Conquest",
+  "timelineActionApprovedSll": "Application Approved",
+  "timelineActionApproved": "Application Approved",
+  "statusNotStarted": "Not Started",
+  "statusNotStartedPlural": "Not Started",
+  "statusNotStartedPluralM": "Not Started",
+  "timelineEarnedPoints": "You earned {points} points",
+  "@timelineEarnedPoints": {
+    "placeholders": {
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "progressAreas": "{current}/{total} areas",
+  "@progressAreas": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressLevels": "{current}/{total} levels",
+  "@progressLevels": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressBadges": "{current}/{total} completed badges",
+  "@progressBadges": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "sliderMilestoneTitle": "Milestone Achieved!",
+  "sliderMilestoneDesc": "Congratulations! You reached the milestone \"{title}\".",
+  "@sliderMilestoneDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "sliderMilestoneAction": "View Achievement 🎉",
+  "sliderNewBadgeDesc": "You earned the badge \"{title}\". Keep up the great work!",
+  "@sliderNewBadgeDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "sliderNewBadgeAction": "View Details ->",
+  "sliderObjectiveTitle": "Objective Reminder",
+  "sliderObjectiveDesc": "You have an active objective: reach {qtd} {tipo}.",
+  "@sliderObjectiveDesc": {
+    "placeholders": {
+      "qtd": {
+        "type": "int"
+      },
+      "tipo": {
+        "type": "String"
+      }
+    }
+  },
+  "sliderObjectiveAction": "View Objective ->",
+  "sliderSlaUrgent": "SLA Overdue / Urgent",
+  "sliderBadgeExpiringDesc": "The badge \"{title}\" expires in {days} days.",
+  "@sliderBadgeExpiringDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "sliderBadgeExpiringAction": "Renew Certification ->",
+  "sliderFallbackTitle": "Your journey starts here!",
+  "sliderFallbackDesc": "Explore the catalog, apply for Badges and achieve your first milestones!"
+}

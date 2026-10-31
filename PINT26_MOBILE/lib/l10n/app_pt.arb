@@ -1,0 +1,628 @@
+{
+  "@@locale": "pt",
+  "myProfile": "O Meu Perfil",
+  "@myProfile": {
+    "description": "Título da página de perfil"
+  },
+  "manageAccount": "Gere a tua conta e preferências",
+  "points": "Pontos",
+  "badges": "Badges",
+  "viewPublicProfile": "Ver Perfil Público",
+  "account": "Conta",
+  "profileSettings": "Definições de Perfil",
+  "profileSettingsDesc": "Editar informações pessoais",
+  "notifications": "Notificações",
+  "notificationsDesc": "Gerir preferências de notificações",
+  "privacySecurity": "Privacidade e Segurança",
+  "privacySecurityDesc": "Controlar dados e permissões RGPD",
+  "preferences": "Preferências",
+  "language": "Idioma",
+  "languageDesc": "Alterar idioma da aplicação",
+  "support": "Suporte",
+  "aboutApp": "Sobre a Aplicação",
+  "aboutAppDesc": "Versão, termos e condições",
+  "helpFaq": "Ajuda e FAQ",
+  "helpFaqDesc": "Perguntas frequentes e suporte",
+  "logout": "Terminar Sessão",
+  "myEvolution": "Minha Evolução",
+  "loginWelcome": "Bem-vindo de volta! Por favor, faça login na sua conta.",
+  "actionRequired": "Ação necessária: {action}",
+  "@actionRequired": {
+    "placeholders": {
+      "action": {
+        "type": "String"
+      }
+    }
+  },
+  "emailAddress": "Email Address",
+  "enterEmail": "Digite o seu email",
+  "passwordLabel": "Password",
+  "enterPassword": "Digite a sua senha",
+  "loginButtonLog": "Log",
+  "loginButtonIn": " In",
+  "rememberMe": "Lembrar-me",
+  "forgotPassword": "Esqueceu a senha?",
+  "requiredField": "Campo obrigatório",
+  "learningPath": "Learning Path",
+  "serviceLine": "Service Line",
+  "area": "Área",
+  "configureProfileTitle": "Configure o seu Perfil",
+  "configureProfileSubtitle": "Para podermos sugerir badges e desafios alinhados com a sua carreira, siga os passos.",
+  "selectLearningPath": "Selecione uma Learning Path",
+  "selectServiceLine": "Selecione uma Service Line",
+  "selectArea": "Selecione uma Área",
+  "confirmArea": "Confirmar Área",
+  "passwordChangedLoginAgain": "Password alterada com sucesso! Faça login novamente.",
+  "passwordChangedSuccess": "Palavra-passe alterada com sucesso!",
+  "passwordChangeError": "Erro ao alterar a password. Verifique os dados.",
+  "newPasswordTitle": "Nova Palavra-passe",
+  "newPasswordSubtitle": "Por motivos de segurança, é obrigatório alterar a palavra-passe gerada pelo sistema no primeiro acesso.",
+  "newPasswordLabel": "Nova Password",
+  "min8Chars": "Mínimo 15 caracteres",
+  "passwordMinError": "A senha deve ter pelo menos 15 caracteres",
+  "confirmNewPasswordLabel": "Confirmar Nova Senha",
+  "repeatNewPassword": "Repita a sua nova senha",
+  "passwordsDontMatch": "As senhas não coincidem",
+  "confirmChange": "Confirmar Alteração",
+  "insertVerificationCode": "Insira o código de verificação.",
+  "emailVerifiedLoginAgain": "Email verificado com sucesso! Faça login novamente.",
+  "invalidCode": "Código inválido. Tente novamente.",
+  "newCodeSent": "Novo código enviado para o seu email!",
+  "errorResendingCode": "Erro ao reenviar código.",
+  "emailVerificationTitle": "Verificação de Email",
+  "emailVerificationSubtitleEmail": "Enviámos um código de verificação para\n{email}",
+  "@emailVerificationSubtitleEmail": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "emailVerificationSubtitle": "Enviámos um código de verificação para o seu email.",
+  "verifyCode": "Verificar Código",
+  "didntReceiveCode": "Não recebeu o código? ",
+  "resendCooldown": "Reenviar ({seconds}s)",
+  "@resendCooldown": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "resend": "Reenviar",
+  "backToLogin": "Voltar ao Login",
+  "errorLoadingTerms": "Ocorreu um erro ao carregar os termos. Por favor, contacte o administrador.",
+  "errorAcceptingTerms": "Ocorreu um erro ao aceitar os termos. Tente novamente.",
+  "termsAndConditions": "Termos e Condições",
+  "rgpdSubtitle": "Para continuar a usar a aplicação, por favor leia e aceite a nossa política de privacidade e proteção de dados (RGPD).",
+  "acceptTerms": "Aceitar Termos",
+  "newMilestoneReached": "NOVO MARCO ALCANÇADO!",
+  "congratulations": "Parabéns!",
+  "fantastic": "Fantástico!",
+  "navHome": "Início",
+  "navCatalog": "Catálogo",
+  "navBadges": "Badges",
+  "navRequests": "Pedidos",
+  "navProfile": "Perfil",
+  "greetingMorning": "Bom dia! 👋",
+  "greetingAfternoon": "Boa tarde! 👋",
+  "greetingEvening": "Boa noite! 👋",
+  "logoutTitle": "Terminar Sessão",
+  "logoutConfirmation": "Pretende terminar a sua sessão?",
+  "cancel": "Cancelar",
+  "yes": "Sim",
+  "welcomeBack": "Bem-vindo novamente",
+  "premiumBadgesTitle": "Conquistas Premium",
+  "premiumBadgesSubtitle": "Badges especiais que refletem marcos\nimportantes da sua jornada",
+  "noPremiumBadges": "Ainda não desbloqueaste badges Premium.\nContinua o bom trabalho!",
+  "pointsHistoryTitle": "Histórico de Pontos",
+  "pointsHistorySubtitle": "Evolução mensal da sua jornada",
+  "noPointsHistory": "Ainda não tens histórico de pontos.\nComeça a ganhar badges!",
+  "recommendedForYou": "Recomendados para Si",
+  "preferenceArea": "🎯 Área de Preferência",
+  "exploredArea": "🌐 Área Explorada",
+  "levelNumber": "Nível {level}",
+  "@levelNumber": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "viewAction": "Ver",
+  "applyAction": "Candidatar-se",
+  "professionalEvolutionTitle": "Evolução Profissional",
+  "detailsAction": "Detalhes",
+  "noProfessionalEvolution": "A tua evolução profissional começa aqui. Ganha o teu primeiro badge para veres a timeline!",
+  "objectiveDeletedSuccess": "Objetivo eliminado com sucesso!",
+  "myObjectives": "Meus Objetivos",
+  "noActiveObjectives": "Sem objetivos ativos!",
+  "defineNewObjective": "Define um novo objetivo e acompanha o teu progresso.",
+  "createObjectiveAction": "Criar Objetivo",
+  "progressCurrentTarget": "Progresso: {current} / {target}",
+  "@progressCurrentTarget": {
+    "placeholders": {
+      "current": {
+        "type": "String"
+      },
+      "target": {
+        "type": "String"
+      }
+    }
+  },
+  "expired": "Expirado",
+  "daysRemaining": "Restam {days} dias",
+  "@daysRemaining": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "silverMedal": "PRATA",
+  "goldMedal": "OURO",
+  "bronzeMedal": "BRONZE",
+  "noMoreConsultants": "Não existem mais consultores.",
+  "generalRankingTitle": "Ranking Geral",
+  "tryAgainAction": "Tentar Novamente",
+  "noRankingData": "Ainda não há dados de ranking.",
+  "newObjective": "Novo Objetivo",
+  "noTimelineEvents": "Ainda não tem marcos na sua jornada.\nExplore o catálogo!",
+  "badgesCatalogTitle": "Catálogo de Badges",
+  "searchBadgesHint": "Pesquisar badges...",
+  "filters": "Filtros",
+  "lessPoints": "Menos Pontos",
+  "morePoints": "Mais Pontos",
+  "serviceLinesCount": "{count, plural, =0{0 Service Lines} =1{1 Service Line} other{{count} Service Lines}}",
+  "@serviceLinesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "areasCount": "{count, plural, =0{0 Áreas} =1{1 Área} other{{count} Áreas}}",
+  "@areasCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "levelsCount": "{count, plural, =0{0 Níveis} =1{1 Nível} other{{count} Níveis}}",
+  "@levelsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "levelsGrid": "Níveis",
+  "badgesGrid": "Badges",
+  "earnedGrid": "Ganhos",
+  "badgesCount": "{count} badges",
+  "@badgesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noBadgesMatchFilters": "Nenhum badge corresponde aos filtros",
+  "statusCompleted": "Concluído",
+  "statusInProgress": "Em Progresso",
+  "statusAvailable": "Disponível",
+  "goBack": "Voltar",
+  "tabInformation": "Informação",
+  "tabCompetences": "Competências",
+  "loadingRequirements": "A carregar requisitos...",
+  "requirementsCount": "Requisitos ({count})",
+  "@requirementsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "statusApproved": "Aprovado",
+  "statusInValidation": "Em Validação",
+  "statusSubmitted": "Submetida",
+  "statusPending": "Pendente",
+  "certifiedCompetences": "Competências Certificadas",
+  "actionsTitle": "Ações",
+  "backToCatalog": "Voltar ao Catálogo",
+  "submitApplication": "Submeter Candidatura",
+  "continueDraft": "Continuar Rascunho",
+  "viewApplication": "Ver Candidatura",
+  "project": "Projeto",
+  "onDate": "em {date}",
+  "@onDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "badgeApplicationTitle": "Candidatura ao Badge",
+  "singleLevel": "Nível Único",
+  "achievementsTitle": "Conquistas",
+  "tabBadges": "Badges",
+  "tabMilestones": "Marcos",
+  "tabSpecials": "Especiais",
+  "noBadgesEarned": "Ainda não tens badges conquistados.",
+  "exploreCatalogPrompt": "Começa a explorar o catálogo e candidata-te aos teus primeiros Badges!",
+  "goToCatalog": "Ir para o Catálogo",
+  "achievementSharing": "Partilha de Conquista",
+  "publicStatus": "Público",
+  "privateStatus": "Privado",
+  "viewBadge": "Ver Badge",
+  "viewCertificate": "Ver Certificado",
+  "shareAction": "Partilhar",
+  "linkedIn": "LinkedIn",
+  "applicationIdNotAvailable": "ID de candidatura não disponível.",
+  "shareMessage": "Vê a minha nova certificação da Softinsa: {title}!\n{link}",
+  "@shareMessage": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "shareSubject": "Certificação {title}",
+  "@shareSubject": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "shareTermsTitle": "Termos de Partilha do Badge",
+  "shareTermsContent": "Ao aceitar estes termos, autoriza a plataforma a tornar os dados desta certificação públicos. Confirma que leu e aceita os Termos RGPD?",
+  "decline": "Recusar",
+  "accept": "Aceitar",
+  "publicShareError": "Erro ao ativar partilha pública. Tente novamente.",
+  "achieved": "Alcançados",
+  "available": "Disponíveis",
+  "searchAvailableMilestones": "Pesquisar marcos disponíveis...",
+  "noMilestoneFound": "Nenhum marco encontrado.",
+  "tryAgain": "Tentar Novamente",
+  "noSpecialBadgeApplications": "Ainda não tens candidaturas a badges especiais.",
+  "exploreSpecialBadgesPrompt": "Explora os Badges Especiais no separador 'Disponíveis' para submeteres as tuas certificações.",
+  "statusConquered": "Conquistado",
+  "statusUnderAnalysis": "Em Análise",
+  "statusRejected": "Recusada",
+  "reasonPrefix": "Motivo: ",
+  "viewProof": "Ver Comprovativo",
+  "publicProfileSharing": "Partilha Pública no Perfil",
+  "statusActive": "Ativo",
+  "statusInactive": "Inativo",
+  "noSpecialBadgeAvailable": "Nenhum badge especial disponível no momento.",
+  "viewDetails": "Ver Detalhes",
+  "applyButton": "Candidatar-se",
+  "bonusPointsSuffix": "pontos bónus",
+  "descriptionLabel": "Descrição",
+  "noAdditionalDescription": "Sem descrição adicional para este badge especial.",
+  "applicationRequirementsTitle": "Requisitos para Candidatura",
+  "requirementLinkPublic": "É necessário submeter um link URL comprovativo público válido.",
+  "requirementFilePdf": "É necessário anexar um documento comprovativo em formato PDF.",
+  "applyForThisBadge": "Candidatar-se a este Badge",
+  "specialBadgeApplicationTitle": "Candidatura ao Badge Especial",
+  "publicLinkMandatory": "Link Público (Obrigatório) *",
+  "publicLinkOptional": "Link Público (Opcional)",
+  "exampleLink": "https://exemplo.com/certificado",
+  "errorInsertUrl": "Por favor insira o URL do link comprovativo.",
+  "errorLinkFormat": "O link deve começar por http:// ou https://",
+  "pdfFileMandatory": "Ficheiro Comprovativo PDF (Obrigatório) *",
+  "pdfFileOptional": "Ficheiro Comprovativo PDF (Opcional)",
+  "errorFileSize": "O ficheiro não pode exceder 5MB.",
+  "errorFileSelection": "Erro ao selecionar ficheiro: ",
+  "selectPdfFile": "Selecionar Ficheiro PDF (máx. 5MB)",
+  "errorPdfMandatory": "É obrigatório anexar um comprovativo PDF.",
+  "applicationSubmittedSuccess": "Candidatura submetida com sucesso para análise do Team Manager!",
+  "returnedApplicationsTitle": "Candidaturas Retornadas",
+  "noReturnedApplications": "Não há candidaturas devolvidas para alteração.",
+  "applicationRequiresCorrection": "Candidatura Requer Correção",
+  "tapToCorrectAndResubmit": "ID: {id}\nToque para corrigir e reenviar evidências.",
+  "approvedValidatedEvidenceTitle": "Evidências Aprovadas / Validadas",
+  "noValidatedEvidence": "Não tens evidências validadas neste momento.",
+  "requirementIdAndDate": "Requisito ID: {id} - Data: {date}",
+  "incompleteSubmissionsTitle": "Submissões Incompletas",
+  "noIncompleteSubmissions": "Não tens submissões incompletas.",
+  "applicationId": "Candidatura: {id}",
+  "tapToUploadAndSubmit": "Toque para carregar ficheiros e submeter evidências.",
+  "unknownBadge": "Insígnia Desconhecida",
+  "noArea": "Sem Área",
+  "noDescriptionAvailable": "Nenhuma descrição disponível.",
+  "statusDraft": "Rascunho",
+  "statusRejectedCancelled": "Rejeitado / Cancelado",
+  "applicationDetailsTitle": "Detalhes da Candidatura",
+  "submissionRequirementsTitle": "Requisitos de Submissão",
+  "noEvidenceSubmitted": "Nenhuma evidência submetida.",
+  "evidences": "Evidências",
+  "mainRequirement": "Requisito Principal - {title}",
+  "mandatory": "Obrigatório",
+  "practicalCompetenceDemo": "Demonstração de competência prática em {title}",
+  "evidencePresentedForProof": "Evidência apresentada para comprovação deste requisito.",
+  "changeButton": "Alterar",
+  "currentState": "* Estado Atual: {status}",
+  "closeButton": "Fechar",
+  "accountTitle": "Conta",
+  "profileSettingsTitle": "Definições de Perfil",
+  "profileSettingsSubtitle": "Editar informações pessoais",
+  "notificationsTitle": "Notificações",
+  "notificationsSubtitle": "Gerir preferências de notificações",
+  "privacySecurityTitle": "Privacidade e Segurança",
+  "privacySecuritySubtitle": "Controlar dados e permissões RGPD",
+  "preferencesTitle": "Preferências",
+  "languageTitle": "Idioma",
+  "languageSubtitle": "Alterar idioma da aplicação",
+  "supportTitle": "Suporte",
+  "helpFaqTitle": "Ajuda e FAQ",
+  "helpFaqSubtitle": "Perguntas frequentes",
+  "aboutTitle": "Sobre",
+  "aboutSubtitle": "Versão 1.0.0",
+  "logoutButton": "Terminar Sessão",
+  "platformVersion": "Softinsa Badge Platform v1.0.0",
+  "pointsLabel": "Pontos",
+  "badgesLabel": "Badges",
+  "personalInformationTitle": "Informação Pessoal",
+  "nameField": "Nome",
+  "surnameField": "Sobrenome",
+  "emailField": "Email",
+  "profileUpdatedSuccess": "Perfil sincronizado e guardado com sucesso!",
+  "profileUpdateError": "Erro ao atualizar o perfil.",
+  "saveChangesButton": "Guardar Alterações",
+  "notificationChannelsTitle": "Canais de Notificação",
+  "pushNotificationsTitle": "Notificações Push",
+  "pushNotificationsSubtitle": "Receber alertas em tempo real no dispositivo",
+  "emailAlertsTitle": "Alertas por Email",
+  "emailAlertsSubtitle": "Receber resumos periódicos de atividade",
+  "syncAlertsTitle": "Avisos de Sincronização",
+  "syncAlertsSubtitle": "Notificar quando houver atualizações na base de dados",
+  "accountSecurityTitle": "Segurança da Conta",
+  "changePasswordTitle": "Alterar Palavra-passe",
+  "changePasswordSubtitle": "Atualizar credenciais de acesso ao sistema",
+  "gdprComplianceTitle": "Conformidade RGPD e Dados",
+  "downloadMyDataTitle": "Descarregar os meus dados",
+  "downloadMyDataSubtitle": "Obter uma cópia de segurança local e em nuvem",
+  "deleteAccountTitle": "Eliminar Conta",
+  "deleteAccountSubtitle": "Apagar permanentemente os dados da aplicação",
+  "currentPasswordLabel": "Password Atual",
+  "cancelButton": "Cancelar",
+  "confirmButton": "Confirmar",
+  "passwordChangeErrorWithArg": "Erro ao alterar palavra-passe: {error}",
+  "faqHeaderTitle": "Perguntas Frequentes",
+  "faqHeaderSubtitle": "Encontra respostas rápidas às dúvidas mais comuns.",
+  "frequentQuestionsTitle": "Dúvidas Frequentes",
+  "stillHaveQuestionsTitle": "Ainda com dúvidas?",
+  "contactSupportTitle": "Contactar Suporte",
+  "aboutAppTitle": "Sobre a Aplicação",
+  "aboutAppDescription": "A Softinsa Badges Platform é uma aplicação móvel desenvolvida para reconhecer e valorizar as competências dos colaboradores da Softinsa.\n\nAtravés de um sistema de badges e pontos, os colaboradores podem acompanhar o seu crescimento profissional e celebrar as suas conquistas.",
+  "technicalInfoTitle": "Informações Técnicas",
+  "versionLabel": "Versão",
+  "buildLabel": "Build",
+  "platformLabel": "Plataforma",
+  "frameworkLabel": "Framework",
+  "developedByTitle": "Desenvolvido por",
+  "developmentTeam": "Equipa de Desenvolvimento",
+  "legalTitle": "Legal",
+  "termsOfService": "Termos de Serviço",
+  "privacyPolicy": "Política de Privacidade",
+  "softwareLicenses": "Licenças de Software",
+  "copyrightNotice": "© 2026 Softinsa · Todos os direitos reservados",
+  "errorLoading": "Erro ao carregar",
+  "totalProducts": "Total de produtos: {count}",
+  "myPath": "O Meu Percurso",
+  "completedLabel": "Completas",
+  "inProgressLabel": "Em Progresso",
+  "notStartedLabel": "Não Iniciadas",
+  "serviceLinesCount": "{count} Service Lines",
+  "completedSubtext": "concluído",
+  "loadingLearningPaths": "A carregar Learning Paths...",
+  "searchFilters": "Filtros de Pesquisa",
+  "allGender": "Todas",
+  "allPlural": "Todos",
+  "areaLabel": "Área",
+  "levelLabel": "Nível",
+  "statusLabel": "Estados",
+  "tryAgainButton": "Tentar Novamente",
+  "submissionRequirements": "Requisitos de Submissão",
+  "noRequirementsConfigured": "Nenhum requisito configurado para este badge.",
+  "applicationInstructions": "Instruções de Candidatura",
+  "applicationInstructionsDesc": "Anexe os comprovativos necessários em cada requisito. Ficheiros permitidos: PDF (máx. 5MB), ZIP, RAR ou 7Z (máx. 15MB).",
+  "requirementFallback": "Requisito",
+  "mandatoryLabel": "Obrigatório",
+  "optionalLabel": "Opcional",
+  "attachedFileFallback": "Ficheiro anexado",
+  "attachFileLabel": "Anexar Ficheiro (PDF, ZIP, RAR, 7Z)",
+  "submittingLabel": "A submeter...",
+  "submitApplicationButton": "Submeter Candidatura",
+  "savingLabel": "A gravar...",
+  "saveDraftButton": "Guardar Rascunho",
+  "errorLoadRequirements": "Erro ao carregar os requisitos do badge: {error}",
+  "fileSizeExceeded": "Ficheiro excede o limite de {mb}MB para .{extension}",
+  "mustAttachMandatory": "Deve anexar ficheiros de evidência em todos os requisitos obrigatórios.",
+  "attachAtLeastOne": "Anexe pelo menos um ficheiro para gravar o rascunho.",
+  "errorCreateApplication": "Não foi possível criar o registo da candidatura.",
+  "draftSavedSuccess": "Rascunho gravado com sucesso!",
+  "applicationStatusTitle": "Estado das Candidaturas",
+  "refreshRequests": "Atualizar Pedidos",
+  "renewalsManagement": "Gestão de Renovações",
+  "noApplicationsPullToRefresh": "Não existem candidaturas registadas.\nPuxe para baixo para atualizar.",
+  "noTitle": "Sem título",
+  "noObjectiveTypesAvailable": "Não há tipos de objetivos disponíveis de momento.",
+  "objectiveType": "Tipo de Objetivo *",
+  "select": "Selecione...",
+  "qtyBadges": "Qtd de Badges (3 a 5)",
+  "qtyPoints": "Qtd de Pontos (100 a 2000)",
+  "diversityType": "Tipo de Diversidade",
+  "qtyDiversity": "Qtd de Diversidade",
+  "deadline": "Prazo",
+  "unit": "Unidade",
+  "days": "Dias",
+  "weeks": "Semanas",
+  "months": "Meses",
+  "objectiveCreatedSuccess": "Objetivo criado com sucesso!",
+  "errorCreatingObjective": "Erro ao criar objetivo. Verifique os valores.",
+  "alertsTitle": "Avisos",
+  "markAllAsReadTooltip": "Marcar todas como lidas",
+  "refresh": "Atualizar",
+  "filterAll": "Todas",
+  "filterUnread": "Não Lidas",
+  "filterRead": "Lidas",
+  "errorLoadingAlerts": "Não foi possível carregar os avisos.",
+  "noAlertsFound": "Nenhum aviso encontrado.",
+  "pullToRefresh": "Puxe para baixo para atualizar",
+  "systemAlert": "Aviso do Sistema",
+  "general": "Geral",
+  "readAction": "Ler",
+  "fromPrefix": "De: ",
+  "noAdditionalContent": "Sem conteúdo adicional.",
+  "markAllAsReadTitle": "Marcar todas como lidas?",
+  "markAllAsReadMessage": "Deseja marcar todas as notificações como lidas?",
+  "allMarkedAsReadSuccess": "Todas as notificações foram marcadas como lidas.",
+  "yesConfirm": "Sim, confirmar",
+  "now": "Agora",
+  "minsAgo": "min atrás",
+  "hoursAgo": "h atrás",
+  "yesterdayAt": "Ontem às ",
+  "renewalRequestSubmittedSuccess": "Pedido de renovação submetido com sucesso.",
+  "eligible": "Elegíveis",
+  "myApplicationsTab": "Minhas Candidaturas",
+  "noBadgesToRenew": "Nenhum badge a expirar ou elegível para renovação.",
+  "renewalPointsPrefix": "Pontos Renovação: +",
+  "expiresInDays": "Expira em {days} dias",
+  "pendingModeration": "Pendente de Moderação",
+  "requestRenewalTitle": "Solicitar Renovação?",
+  "requestRenewalMessage": "Tem a certeza que deseja submeter este pedido de renovação?",
+  "confirm": "Confirmar",
+  "renew": "Renovar",
+  "noRenewalRequestsSubmitted": "Nenhum pedido de renovação submetido.",
+  "previewShare": "Pré-visualizar Partilha",
+  "howYourPostWillLook": "Como ficará o teu post:",
+  "yourName": "O Teu Nome",
+  "softinsaTalent": "Talento Softinsa",
+  "shareOnLinkedIn": "Partilhar no LinkedIn",
+  "shareNow": "Partilhar Agora",
+  "documentRotatedDegrees": "Documento rodado {degrees}°",
+  "errorSharingCertificate": "Erro ao partilhar o certificado: {error}",
+  "certificateSavedSuccess": "Certificado guardado com sucesso!",
+  "errorDownloadingCertificate": "Erro ao descarregar certificado: {error}",
+  "certificateTitle": "Certificado",
+  "errorLoadingCertificate": "Ocorreu um erro ao gerar o certificado.",
+  "loadingCertificate": "A carregar o teu certificado...",
+  "noSubmissionsYet": "Ainda não fez nenhuma submissão.",
+  "achievedBadge": "Alcançaste o badge {badgeName}",
+  "plusPoints": "+{points} Pontos",
+  "continueEvolving": "Continuar a Evoluir",
+  "goodMorning": "Bom dia!",
+  "technicalJourney": "Jornada Técnica",
+  "weekProgress": "Progresso da Semana",
+  "errorGeneral": "Erro: {error}",
+  "dashboardBadges": "Badges",
+  "dashboardAccumulatedPoints": "Pontos\nAcumulados",
+  "dashboardPointsUnit": "pts",
+  "dashboardApplications": "Candidaturas",
+  "dashboardRanking": "Ranking",
+  "dashboardVsPreviousMonth": "vs. mês anterior",
+  "sliderNewBadge": "Novo Badge!",
+  "sliderBadgeExpiring": "Badge a Expirar",
+  "timelineBadgeConquered": "Badge Conquistado",
+  "timelineSpecialConquest": "Conquista Especial",
+  "timelineActionApprovedSll": "Candidatura Aprovada",
+  "timelineActionApproved": "Candidatura Aprovada",
+  "statusNotStarted": "Não Iniciada",
+  "statusNotStartedPlural": "Não Iniciadas",
+  "statusNotStartedPluralM": "Não Iniciados",
+  "timelineEarnedPoints": "Ganhaste {points} pontos",
+  "@timelineEarnedPoints": {
+    "placeholders": {
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "progressAreas": "{current}/{total} áreas",
+  "@progressAreas": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressLevels": "{current}/{total} níveis",
+  "@progressLevels": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressBadges": "{current}/{total} badges completos",
+  "@progressBadges": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "sliderMilestoneTitle": "Marco Alcançado!",
+  "sliderMilestoneDesc": "Parabéns! Alcançaste o marco \"{title}\".",
+  "@sliderMilestoneDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "sliderMilestoneAction": "Ver Conquista 🎉",
+  "sliderNewBadgeDesc": "Conquistaste o badge \"{title}\". Continua o excelente trabalho!",
+  "@sliderNewBadgeDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "sliderNewBadgeAction": "Ver Detalhes ->",
+  "sliderObjectiveTitle": "Lembrete de Objetivo",
+  "sliderObjectiveDesc": "Tens um objetivo ativo: alcançar {qtd} {tipo}.",
+  "@sliderObjectiveDesc": {
+    "placeholders": {
+      "qtd": {
+        "type": "int"
+      },
+      "tipo": {
+        "type": "String"
+      }
+    }
+  },
+  "sliderObjectiveAction": "Ver Objetivo ->",
+  "sliderSlaUrgent": "SLA Ultrapassado / Urgente",
+  "sliderBadgeExpiringDesc": "O badge \"{title}\" expira em {days} dias.",
+  "@sliderBadgeExpiringDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "sliderBadgeExpiringAction": "Renovar Certificação ->",
+  "sliderFallbackTitle": "A tua jornada começa aqui!",
+  "sliderFallbackDesc": "Explora o catálogo, candidata-te a Badges e conquista os teus primeiros marcos!"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "microsite",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3002",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview --port 3002",
+    "serve": "serve -s dist -l 3002"
+  },
+  "dependencies": {
+    "axios": "^1.19.0",
+    "bootstrap": "^5.3.3",
+    "lucide-react": "^0.469.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "serve": "^14.2.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
+  }
+}
